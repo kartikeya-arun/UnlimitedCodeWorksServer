@@ -4,7 +4,8 @@
   "description": "This is the server of my portfolio website.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Kartikeya Arun",
   "license": "ISC",
