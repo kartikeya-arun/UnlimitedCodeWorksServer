@@ -9,7 +9,7 @@ app.use(cors())
 app.use(bodyParser.urlencoded({extended: true}));
 
 app.get('/',(req,res)=>{
-    res.send('Sup biches!!')
+    res.send('Nothing here 🤷🏽')
 })
 
 app.use('/api/projects',projectRoutes);
